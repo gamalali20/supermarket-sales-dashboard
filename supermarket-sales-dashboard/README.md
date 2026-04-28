@@ -45,7 +45,7 @@ It provides insights into customer behavior, product performance, and overall bu
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard_Screenshot.jpg)
 
 ---
 
